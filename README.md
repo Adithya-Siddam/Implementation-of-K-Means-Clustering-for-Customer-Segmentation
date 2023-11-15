@@ -64,19 +64,19 @@ plt.title("Customer Segments   ")
 ```
 ## Output:
 
-![image](https://github.com/KothaiKumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121215739/d16401ee-0a7a-41c1-9da9-9a2b1d7023f8)
+![image](https://github.com/Adithya-Siddam/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93427248/d88f93a2-748a-455c-ac80-f7e0ab2ba9b7)
 
-![image](https://github.com/KothaiKumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121215739/3e762761-9fa8-428d-81f4-6513a227b86b)
+![image](https://github.com/Adithya-Siddam/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93427248/90e87d0f-858b-4c0c-bca6-17bb031ae3b1)
 
-![image](https://github.com/KothaiKumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121215739/d6c2b1e5-5461-43a6-905a-4766fd44cc0c)
+![image](https://github.com/Adithya-Siddam/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93427248/67e3e697-ed26-4bd6-a689-de3bbb05e45e)
 
-![image](https://github.com/KothaiKumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121215739/dc1cc3ec-c98b-45cc-8644-7adc8890afac)
+![image](https://github.com/Adithya-Siddam/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93427248/309e90f2-c910-4745-9bda-98591fec8847)
 
 ![image](https://github.com/KothaiKumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121215739/c8bb3def-f5ff-42e8-a672-ef945fb09883)
 
 ![image](https://github.com/KothaiKumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121215739/88f28979-9ebf-4376-b9ad-5fb06fdfe0cd)
 
-![image](https://github.com/KothaiKumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121215739/80f2b622-1a6b-422f-98df-75a32afe60b8)
+![image](https://github.com/Adithya-Siddam/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93427248/fe47ec99-e3f2-4b78-b356-faa71a2aefd2)
 
 ![image](https://github.com/KothaiKumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121215739/e458fc92-fb10-43e8-8376-c47dd8522dd2)
 
